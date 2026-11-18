@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "platform": "Windows x64",
+  "exe": "ParametricDeskNameplate.exe",
+  "exitCode": 0,
+  "bundledRuntimeOnly": true,
+  "ui": {
+    "ok": true,
+    "app": "parametric-desk-nameplate",
+    "initial": true,
+    "fields": true,
+    "changed": true,
+    "symbols": true,
+    "restored": true,
+    "exported": true,
+    "dimensions": [
+      129.95041478000002,
+      35.82143612,
+      29.83745817425357
+    ],
+    "parts": 7,
+    "otherProjectTabs": 0
+  },
+  "executableSHA256": "207853646fd0553430706aee4d2ef1fac8a492cc32001dcec739598c89d8a492",
+  "stlSHA256": "b281693dafded5cbbc23fe53d135c6ac56fa0858462a09693f988fe4915ec568",
+  "threeMFSHA256": "a010e0009e6ae8dce882af1aaea084f3c9c5152a6b3b17c52b0b71c028be34fe"
+}

@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "source": "Keychain Studio 1.7.0-beta.1",
+  "configuration": {
+    "text": "OLIVER",
+    "baseColor": "#4388ba",
+    "topColor": "#4388ba",
+    "letterHeight": 28,
+    "bendRadius": 4,
+    "baseDepth": 24,
+    "baseThickness": 3,
+    "tilt": 33,
+    "topChamfer": 0.8
+  },
+  "dimensionsIdentical": true,
+  "previewPartsSHA256": "abf057c912c87dd5d7d6895784e4ffb7d56a01dabaf81f502e4a76d7dd10febc",
+  "previewPartsIdentical": true
+}

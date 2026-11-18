@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "app": "parametric-desk-nameplate",
+  "initial": true,
+  "fields": true,
+  "changed": true,
+  "symbols": true,
+  "restored": true,
+  "exported": true,
+  "dimensions": [
+    129.95041478000002,
+    35.82143612,
+    29.83745817425357
+  ],
+  "parts": 7,
+  "otherProjectTabs": 0
+}

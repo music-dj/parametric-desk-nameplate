@@ -1,0 +1,84 @@
+{
+  "id": "nameplate",
+  "slug": "parametric-desk-nameplate",
+  "title": "Parametric Desk Nameplate",
+  "arabic": "لوحة اسم مكتبية بارامترية",
+  "description": "Curved-back Arabic and English parametric desk nameplates | لوحات أسماء مكتبية عربية وإنكليزية بظهر منحني",
+  "generator": "nameplate.mjs",
+  "exportName": "generateNameplate",
+  "exe": "ParametricDeskNameplate",
+  "defaultText": "OLIVER",
+  "assets": [
+    "LuckiestGuy-Regular.ttf",
+    "LuckiestGuy-LICENSE.txt",
+    "Amiri-Bold.ttf",
+    "Amiri-OFL.txt"
+  ],
+  "defaults": {
+    "text": "OLIVER",
+    "baseColor": "#4388ba",
+    "topColor": "#4388ba",
+    "letterHeight": 28,
+    "bendRadius": 4,
+    "baseDepth": 24,
+    "baseThickness": 3,
+    "tilt": 33,
+    "topChamfer": 0.8
+  },
+  "fields": [
+    {
+      "key": "letterHeight",
+      "label": "ارتفاع رسم الحروف / Letter height (mm)",
+      "type": "number",
+      "min": 16,
+      "max": 60,
+      "step": 1
+    },
+    {
+      "key": "bendRadius",
+      "label": "نصف قطر اللفة / Inner bend radius (mm)",
+      "type": "number",
+      "min": 1,
+      "max": 12,
+      "step": 0.5
+    },
+    {
+      "key": "baseDepth",
+      "label": "عمق القاعدة الأدنى / Minimum depth (mm)",
+      "type": "number",
+      "min": 14,
+      "max": 80,
+      "step": 1
+    },
+    {
+      "key": "baseThickness",
+      "label": "سماكة القاعدة / Base thickness (mm)",
+      "type": "number",
+      "min": 2,
+      "max": 8,
+      "step": 0.5
+    },
+    {
+      "key": "tilt",
+      "label": "الميل عن العمودي / Tilt from vertical (°)",
+      "type": "number",
+      "min": 0,
+      "max": 75,
+      "step": 1
+    },
+    {
+      "key": "topChamfer",
+      "label": "شطفة علوية / Top chamfer (mm)",
+      "type": "number",
+      "min": 0,
+      "max": 2,
+      "step": 0.1
+    }
+  ],
+  "samples": [
+    "أحمد",
+    "محمد",
+    "LUNA"
+  ],
+  "note": "أميري عريض للعربية وLuckiest Guy للإنكليزية. القاعدة متصلة وشطفة علوية فقط. / Arabic shaping, curved backs, one connected base, top chamfer only."
+}

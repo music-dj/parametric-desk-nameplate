@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "app": "parametric-desk-nameplate",
+  "cases": [
+    {
+      "variation": {},
+      "dimensions": [
+        129.95041478000002,
+        35.82143612,
+        29.83745817425357
+      ],
+      "closed": true,
+      "parts": 7,
+      "stlBytes": 14565084,
+      "threeMFBytes": 4664192
+    },
+    {
+      "variation": {
+        "text": "أحمد"
+      },
+      "dimensions": [
+        45.77602202,
+        36.12747332,
+        30.003326813480214
+      ],
+      "closed": true,
+      "parts": 2,
+      "stlBytes": 8930884,
+      "threeMFBytes": 2927386
+    },
+    {
+      "variation": {
+        "text": "عبد الله"
+      },
+      "dimensions": [
+        57.1410326,
+        36.12468186,
+        30.000914898064668
+      ],
+      "closed": true,
+      "parts": 2,
+      "stlBytes": 13909284,
+      "threeMFBytes": 4556544
+    },
+    {
+      "variation": {
+        "text": "مُحَمَّد"
+      },
+      "dimensions": [
+        35.00506234,
+        36.12904346,
+        30.004643639790142
+      ],
+      "closed": true,
+      "parts": 2,
+      "stlBytes": 11140684,
+      "threeMFBytes": 3658639
+    },
+    {
+      "variation": {
+        "text": "علي 2026"
+      },
+      "dimensions": [
+        80.19598832,
+        36.12934636,
+        30.00482687947667
+      ],
+      "closed": true,
+      "parts": 2,
+      "stlBytes": 20259384,
+      "threeMFBytes": 6670522
+    },
+    {
+      "variation": {
+        "text": "I",
+        "tilt": 0
+      },
+      "dimensions": [
+        18.76303056,
+        37.99999972,
+        35
+      ],
+      "closed": true,
+      "parts": 2,
+      "stlBytes": 1391684,
+      "threeMFBytes": 458051
+    },
+    {
+      "variation": {
+        "text": "O",
+        "tilt": 75,
+        "baseDepth": 14
+      },
+      "dimensions": [
+        35.34727676,
+        34.13629466,
+        11.282209443280664
+      ],
+      "closed": true,
+      "parts": 2,
+      "stlBytes": 4295884,
+      "threeMFBytes": 1363246
+    },
+    {
+      "variation": {
+        "topChamfer": 0
+      },
+      "dimensions": [
+        129.95041478000002,
+        35.82143612,
+        29.83745817425357
+      ],
+      "closed": true,
+      "parts": 7,
+      "stlBytes": 14559884,
+      "threeMFBytes": 4663211
+    }
+  ]
+}
